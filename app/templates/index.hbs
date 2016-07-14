@@ -5,8 +5,6 @@
 
 <ul>
   {{#each model as |project|}}
-    <li><strong>{{project.title}}</strong></li>
-    <li><img src={{project.image}} alt="cat image"/></li>
-    <li><em>{{project.description}}</em></li>
+    {{project-tile project=project}}
   {{/each}}
 </ul>
