@@ -2,6 +2,12 @@
 
 module.exports = function(environment) {
   var ENV = {
+    firebase: {
+      apiKey: "AIzaSyB-zfOT8AEClaBJOTHbOtud5zybO5QzGxc",
+      authDomain: "cmc-portfolio.firebaseapp.com",
+      databaseURL: "https://cmc-portfolio.firebaseio.com",
+      storageBucket: "cmc-portfolio.appspot.com",
+    },
     modulePrefix: 'portfolio-time',
     environment: environment,
     baseURL: '/',

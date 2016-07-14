@@ -1,0 +1,17 @@
+{ "projects": [{
+    "title": "Designer Toy Awards Website",
+    "image": "https://pixabay.com/en/cat-pet-animal-white-cute-kitten-938667/",
+    "skillsUsed": "Sass, CSS, HTML, JavaScript, Ember, Sketch",
+    "description": "I made this application as a redesign of the current website for the Annual Designer Toy Award Ceremony."
+  }, {
+    "title": "Digital Illustration",
+    "image": "https://pixabay.com/en/cat-pet-animal-white-cute-kitten-938667/",
+    "skillsUsed": "Sass, CSS, HTML, JavaScript, Ember, Sketch",
+    "description": "I made this application as a redesign of the current webiste for the Annual Designer Toy Award Ceremony."
+  }, {
+    "title": "Something Equally as Cool",
+    "image": "https://pixabay.com/en/cat-pet-animal-white-cute-kitten-938667/",
+    "skillsUsed": "Sass, CSS, HTML, JavaScript, Ember, Sketch",
+    "description": "I made this application as a redesign of the current webiste for the Annual Designer Toy Award Ceremony."
+  }]
+}
