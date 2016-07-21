@@ -1,11 +1,12 @@
-{{outlet}}
 
+  <div class="header">
+    <nav>
+    {{#link-to 'index'}}Home{{/link-to}}
+    {{#link-to 'contact'}}Contact{{/link-to}}
+    {{#link-to 'illustrations'}}Illustration{{/link-to}}
+    {{#link-to 'design'}}Design{{/link-to}}
+    {{#link-to 'finished'}}Projects{{/link-to}}
+    </nav>
+  </div>
 
-<div class="header">
-  <nav>
-  {{#link-to 'contact'}}Contact{{/link-to}}
-  {{#link-to 'illustrations'}}Illustration{{/link-to}}
-  {{#link-to 'design'}}Design{{/link-to}}
-  {{#link-to 'finished'}}Projects{{/link-to}}
-  </nav>
-</div>
+  {{outlet}}
