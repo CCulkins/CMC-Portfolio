@@ -9,6 +9,9 @@ Router.map(function() {
   this.route('contact');
   this.route('about');
   this.route('projects');
+  this.route('illustrations');
+  this.route('finished');
+  this.route('design');
 });
 
 export default Router;
