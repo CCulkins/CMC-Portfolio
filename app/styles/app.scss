@@ -2,37 +2,39 @@
 
 body {
   padding: 10px;
+  background: $white;
 }
 
 .name {
-  font-family: "Raleway Dots";
-  font-size: 150px;
-  color: plum;
+  font-family: "Sniglet";
+  font-weight:100;
+  font-size: 75px;
+  color: $grey;
   display: flex;
   justify-content: center;
 }
 
 nav {
-  font-family: "Raleway";
+  font-family: "Nixie One";
   font-weight: 100;
-  font-size: 50px;
+  font-size: 40px;
   display: flex;
   justify-content: space-between;
-  border: 1px solid black;
+  // border: 1px solid black;
 }
 
 a {
-  color: black;
+  color: $grey;
   text-decoration: none;
-  border: 1px solid black;
+  // border: 1px solid black;
 
   &:hover {
-    color: lightgray;
+    color: $blue;
   }
 }
 
 .main {
-  border: 1px solid black;
+  // border: 1px solid black;
   height: 800px;;
   width: 96.5vw;
 }
