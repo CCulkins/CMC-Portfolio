@@ -4,6 +4,8 @@
 
 #### By _**Cassandra Culkins**_ 
 
+![alt text](http://i.imgur.com/sDKpODk.png "Logo Title Text 1")
+
 ## Description
 
 _Multi-page portfolio website highlighting past-work in digital illustration and ui design. In-progress,_
