@@ -5,6 +5,19 @@ body {
   background: $white;
 }
 
+.bold {
+  font-weight: bolder;
+}
+
+.header {
+  font-family: "Sniglet";
+  font-size: 70px;
+}
+
+p {
+  font-family: "Nixie One";
+}
+
 .name {
   font-family: "Sniglet";
   font-weight:100;

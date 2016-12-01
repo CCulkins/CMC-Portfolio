@@ -1,0 +1,16 @@
+.social-media {
+  display: flex;
+  justify-content: center;
+
+  .gmail, .linkedin, .dribbble, .behance {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+
+  }
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+}
